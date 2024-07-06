@@ -1,0 +1,8 @@
+tsc --init
+
+(tsconfig.json)
+
+npm insall @types/node --save-dev
+
+(package-lock.json & package.json)
+

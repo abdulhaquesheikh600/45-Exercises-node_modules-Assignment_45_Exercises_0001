@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "docker": "^1.0.0",
+    "fastapi": "^0.0.8",
+    "inquirer": "^8.0.0",
+    "poetry": "^0.6.29",
+    "python": "^0.0.4",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.2"
+  },
+  "name": "45-exercises",
+  "version": "1.0.0",
+  "main": "ex_010.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
